@@ -1,2 +1,2 @@
 # Codsoft
-Completed my tasks of intership.
+Completed my tasks of internship.
